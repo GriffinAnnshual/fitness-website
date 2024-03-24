@@ -30,6 +30,18 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+
+Screenshots:
+
+![image](https://github.com/GriffinAnnshual/fitness-website-landing-page/assets/77448860/7642e11d-49e0-4134-a61e-e7bf1c4d6fe2)
+
+
+![image](https://github.com/GriffinAnnshual/fitness-website-landing-page/assets/77448860/a2da6176-d7a9-4407-bf50-cc5b0efd58ef)
+
+![image](https://github.com/GriffinAnnshual/fitness-website-landing-page/assets/77448860/92e16a7e-e40e-4b94-b7a1-0f1e2df180e0)
+
+
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
